@@ -4,13 +4,13 @@
     "ticker": "tL-BTC",
     "name": "Liquid Bitcoin",
     "asset": "144c654344aa716d6f3abcc1ca90e5641e4e2a7f633bc09fe3baf64585819a49",
-    "value": "210037"
+    "value": "234545"
   },
   "token": {
     "ticker": "tL-USDt",
     "name": "Liquid Tether",
     "asset": "f3d1ec678811398cd2ae277cbe3849c6f6dbd72c74bc542f7c4b11ff0e820958",
-    "value": "95821893000"
+    "value": "85836664100"
   },
   "lp": {
     "ticker": "fc65",
@@ -31,7 +31,7 @@
     "block_hash": "7fa6f90f1b8bfe5c9e5aeecda0441cc2814a9374c73ee9e22f8ed1ec6af4bc35"
   },
   "unspentTx": {
-    "txid": "69c8274fa488ff02591faecf87fd3e67f436bcb5f0e2e5898b8ea89e04bbbb69",
+    "txid": "56762f5ff68994ce614a04485fc29f265dd8ad3f4494eb3e4cb5dc700ded7fe0",
     "block_height": 450180,
     "block_hash": "a83402732733710612ed96203295aad5fd1e54796283e93f7a9288afeb14d728"
   },
