@@ -36,6 +36,6 @@
     "block_hash": "a83402732733710612ed96203295aad5fd1e54796283e93f7a9288afeb14d728"
   },
   "lastSentPtx": "78d281ee0780f76260aaa75654877b9ad9c813713d00509225159cba68eed417",
-   "leafCount": 1,
-   "pair1_coefficient": 50,
+  "leafCount": 1,
+  "pair1_coefficient": 50
 }
